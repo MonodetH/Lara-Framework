@@ -1,2 +1,2 @@
-Lara-Framework
+Lore-Framework
 ==============
