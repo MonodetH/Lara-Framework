@@ -1,0 +1,6 @@
+SESSION
+	page
+		current?
+		redir
+	app
+		
